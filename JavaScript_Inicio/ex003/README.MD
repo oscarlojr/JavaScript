@@ -1,5 +1,5 @@
 # JavaScript Início EX003
-O que aprendemos nessa aula:
+O que aprendi nessa aula:
 
 * Const e let
 * Case Sensitive
