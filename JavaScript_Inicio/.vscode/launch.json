@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\JavaScript_Inicio\\ex008\\8-loops.js"
+            "program": "${workspaceFolder}\\ex008\\8-loops.js"
         },
         {
             "type": "pwa-node",
@@ -20,7 +20,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\JavaScript_Inicio\\ex007\\7-condicionais.js"
+            "program": "${workspaceFolder}\\ex007\\7-condicionais.js"
         }
     ]
 }
