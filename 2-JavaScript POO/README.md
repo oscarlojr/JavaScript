@@ -7,4 +7,4 @@ O que aprendi nesse curso:
 *	Criando classes;
 *	O que são atributos;
 *	Instâcia/Objeto;
-*	Operador new;
+*	Operador new.
