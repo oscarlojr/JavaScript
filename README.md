@@ -1,3 +1,3 @@
 # Projetos JavaScript
 
- Relação de exercícios e cursos de JavaScript. Diretório criado para fins didáticos.
+ Relação de exercícios e cursos de JavaScript. Repositório criado para fins didáticos.
