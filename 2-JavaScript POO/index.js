@@ -10,5 +10,6 @@ conta1.depositar(500);
 const conta2 = new ContaCorrente(cliente2,102);
 
 conta1.tansferir(200, conta2);
-console.log(conta1, conta2);
+console.log(conta1, conta2,ContaCorrente.numeroDeContas);
+
 
