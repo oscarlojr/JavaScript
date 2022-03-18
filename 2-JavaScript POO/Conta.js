@@ -15,9 +15,9 @@ export class Conta{
         return this._cliente;
     }
    
-    // get saldo(){
-    //     return this._saldo;
-    // }
+    get saldo(){
+        return this._saldo;
+    }
 
     sacar(valor){
         taxa = 1.1 * valor;
