@@ -8,13 +8,10 @@ export class ContaCorrente extends Conta{
        super(0,cliente,agencia);
        ContaCorrente.numeroDeContas ++;
     }
+    
+    //Sobrescrevendo o comportamento do método sacar
     sacar(valor){
         let taxa = 1.1;
-        const valorSacado = taxa * valor;
-        if (this._saldo >= valorSacado){
-            this._saldo -= valorSacado;
-            return valorSacado;
-        }
-  
+        return this._sacar(valor,taxa);  //pode ser usado o this ou super
     }
 }
